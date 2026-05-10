@@ -60,3 +60,11 @@ Producer → Kafka → Consumer → ML Model → Dashboard
 
 \- Dashboard visualization
 
+
+
+\## Dashboard
+
+
+
+!\[Dashboard](dashboard.png)
+
